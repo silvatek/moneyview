@@ -1,0 +1,9 @@
+# Each line in this file defines a category mapping.
+# If the description of a transaction matches the key, the transaction will be assigned to the corresponding category.
+# Keys comparisons are not case-sensitive.
+# Empty lines, or lines starting with the hash symbol, will be ignored.
+
+VALUE TO MATCH 1: category1
+VALUE TO MATCH 2: category1
+
+VALUE TO MATCH 3: category2
